@@ -1,2 +1,2 @@
 # Java-course
- Repository considered the projects for learnin basic aspects of programming on Java
+ Repository considered the projects for the basic aspects of java programming learning
