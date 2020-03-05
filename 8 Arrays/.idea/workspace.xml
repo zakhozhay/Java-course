@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e105ebed-e5c6-4158-b1d2-e2e7fc0deb8e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Arrays$Main.ic" NAME="Main Coverage Results" MODIFIED="1577005878920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="ProjectId" id="1WiUnIFtpu5MoPP4AaZ8bB3YKaC" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.zoi.Main" />
+      <module name="Arrays" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e105ebed-e5c6-4158-b1d2-e2e7fc0deb8e" name="Default" comment="" />
+      <created>1524502888716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524502888716</updated>
+      <workItem from="1524502891935" duration="1967000" />
+      <workItem from="1524684904902" duration="36000" />
+      <workItem from="1524685009248" duration="516000" />
+      <workItem from="1526026078516" duration="799000" />
+      <workItem from="1528284474248" duration="30000" />
+      <workItem from="1528969966950" duration="209000" />
+      <workItem from="1528970195244" duration="9000" />
+      <workItem from="1536783383618" duration="202000" />
+      <workItem from="1537815296384" duration="1242000" />
+      <workItem from="1539115817264" duration="590000" />
+      <workItem from="1572201726374" duration="48000" />
+      <workItem from="1575791516497" duration="29000" />
+      <workItem from="1575791688440" duration="645000" />
+      <workItem from="1577005786916" duration="167000" />
+      <workItem from="1579567248817" duration="104000" />
+      <workItem from="1579632077296" duration="131000" />
+      <workItem from="1579632297117" duration="152000" />
+      <workItem from="1579632478485" duration="223000" />
+      <workItem from="1579633418040" duration="70000" />
+      <workItem from="1582655070986" duration="323000" />
+      <workItem from="1583186531074" duration="11000" />
+      <workItem from="1583187355629" duration="272000" />
+      <workItem from="1583421256071" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
