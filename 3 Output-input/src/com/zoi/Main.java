@@ -13,10 +13,18 @@ public class Main {
 
         //Иллюстрация потокового ввода
         Scanner scanner = new Scanner(System.in);
-        int result = scanner.nextInt();
-        System.out.println("Введенное значение равно "+ result);
-        float sym = scanner.nextFloat();
-        System.out.println("Введенное значение равно "+ sym);
+
+        System.out.print("Введите целочисленную переменную");
+        int var_int = scanner.nextInt();
+        System.out.println("Введенное значение равно "+ var_int);
+
+        System.out.print("Введите вещественную переменную");
+        float var_float = scanner.nextFloat();
+        System.out.println("Введенное значение равно "+ var_float);
+
+        System.out.print("Введите строковую переменную");
+        String var_string = scanner.next(); //или чаще используют nextLine()
+        System.out.println("Введенное значение равно "+ var_string);
 
 
     }
