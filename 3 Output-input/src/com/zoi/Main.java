@@ -7,7 +7,7 @@ public class Main {
 
     public static <string> void main(String[] args) {
         //Пример потокового вывода
-        System.out.print("Hello World!"); //вывод строки без перевода курора на новую строку
+        System.out.print("Hello World! \t"+ "\t" + ""); //вывод строки без перевода курора на новую строку
         System.out.println(); // Перевод курсора на новую строку
         System.out.println("Привет Мир!"); //Вывод строки и перевод курора на новую строку
 
