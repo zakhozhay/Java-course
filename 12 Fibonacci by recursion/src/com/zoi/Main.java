@@ -1,4 +1,4 @@
-package com.company;
+package com.zoi;
 
 import java.util.Scanner;
 
