@@ -19,7 +19,7 @@ public class Player {
     }
 
     void pass() {
-        System.out.println("Ну и зачем тогда игру запускал?)))");
+        System.out.println("Ну і навіщо тоді гру запускав?)))");
     }
 
 }

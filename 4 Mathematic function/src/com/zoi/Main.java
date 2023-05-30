@@ -8,13 +8,13 @@ public class Main {
 	int var1, var2;
 	double var3;
         Scanner input = new Scanner(System.in);
-        System.out.print("Введите основание: ");
+        System.out.print("Введіть основу: ");
         var1 = input.nextInt();
-        System.out.print("Введите показатель степени: ");
+        System.out.print("Введіть покажчик ступеню: ");
         var2 = input.nextInt();
-        var3 = Math.pow(var1, var2); //использование математической функции pow(double, double)
-                                     //с неявным преобразованием типов аргументов из int в double
+        var3 = Math.pow(var1, var2); //використання математичної функції pow(double, double)
+                                     //з неявним перетворенням типів аргументів з int в double
 
-        System.out.print("Результат возведения var1 в степень var2 равен:  " + var3);
+        System.out.print("Результат возведення var1 в ступінь var2 дорівнює:  " + var3);
     }
 }

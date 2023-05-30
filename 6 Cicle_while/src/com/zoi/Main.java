@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите значения для ограничения инкрементирования");
+        System.out.println("Введіть значення для обмеження інкрементування");
         int result = scanner.nextInt();
 
         int var=0;
